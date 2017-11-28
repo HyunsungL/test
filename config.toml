@@ -1,6 +1,6 @@
 baseurl = "test"
 languageCode = "en-us"
-title = "Strata"
+title = "Co-Founder"
 theme = "hugo-strata-theme"
 disqusShortname = "spf13"
 publishdir = "docs"
