@@ -1,4 +1,4 @@
-baseurl = "test2"
+baseurl = "test"
 languageCode = "en-us"
 title = "Co-Founder"
 theme = "hugo-strata-theme"

@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Co-Founder</title>
-    <link>test2/tags/</link>
+    <link>test/tags/</link>
     <description>Recent content in Tags on Co-Founder</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="test2/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="test/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
