@@ -1,6 +1,3 @@
-[submodule "themes/hugo-xmin"]
-	path = themes/hugo-xmin
-	url = https://github.com/yihui/hugo-xmin.git
 [submodule "theme/hugo-strata-theme"]
 	path = theme/hugo-strata-theme
 	url = https://github.com/digitalcraftsman/hugo-strata-theme.git
